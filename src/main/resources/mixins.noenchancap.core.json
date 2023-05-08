@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "cn.korostudio.mc.noenchancap.mixin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_11",
+  "server": [
+  ],
+  "mixins": [
+    "AnvilMenuMixin",
+    "CombatRulesMixin",
+    "EnchantCommandMixin",
+    "EnchantmentHelperMixin",
+    "EnchantmentMixin",
+    "FishingHookMixin",
+    "ItemStackMixin",
+    "MixinCraftServer",
+    "MixinGameRules",
+    "PlayerMixin"
+  ]
+}

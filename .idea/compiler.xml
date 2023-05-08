@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="C:/Program Files/gradle/gradle-7.6/jars/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+        </processorPath>
+        <module name="NoEnchantCapBI.test" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="C:/Program Files/gradle/gradle-7.6/jars/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/8f8cf0372abf564913e9796623aac4c8ea44025a/lombok-1.18.26.jar" />
+          <entry name="C:/Program Files/gradle/gradle-7.6/jars/caches/modules-2/files-2.1/com.github.LlamaLad7/MixinExtras/0.1.1/509f2869426473a0faec75539db756367065816d/MixinExtras-0.1.1.jar" />
+        </processorPath>
+        <module name="NoEnchantCapBI.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>

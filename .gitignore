@@ -1,0 +1,7 @@
+# 项目排除路径
+/.gradle/
+/build/
+/build/classes/java/main/
+/build-logic/.gradle/
+/build-logic/build/
+/build-logic/build/classes/kotlin/main/
